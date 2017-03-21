@@ -1,0 +1,56 @@
+[
+    {
+        "idSoal" : "1",
+        "kunciJawaban" : "Kunci jawaban dari soal 1",
+        "jawabanSiswa" : [
+            {
+                "idSiswa"   : "1",
+                "jawaban"   : "Jawaban panjang siswa 1 mengenai soal pertama sungguh mencengangkan"
+            },
+            {
+                "idSiswa"   : "2",
+                "jawaban"   : "Jawaban siswa 2"
+            },
+            {
+                "idSiswa"   : "3",
+                "jawaban"   : "Jawaban siswa 3"
+            }
+        ]
+    },
+    {
+        "idSoal" : "2",
+        "kunciJawaban" : "Kunci jawaban dari soal 2",
+        "jawabanSiswa" : [
+            {
+                "idSiswa"   : "1",
+                "jawaban"   : "Jawaban siswa 1 untuk soal 2"
+            },
+            {
+                "idSiswa"   : "2",
+                "jawaban"   : "Kunci jawaban dari soal 2"
+            },
+            {
+                "idSiswa"   : "3",
+                "jawaban"   : "Jawaban siswa 3"
+            }
+        ]
+    },
+    {
+        "idSoal" : "3",
+        "kunciJawaban" : "Kunci jawaban dari soal 3",
+        "jawabanSiswa" : [
+            {
+                "idSiswa"   : "1",
+                "jawaban"   : "Jawaban siswa 1"
+            },
+            {
+                "idSiswa"   : "2",
+                "jawaban"   : "Jawaban siswa 2"
+            },
+            {
+                "idSiswa"   : "3",
+                "jawaban"   : "Jawaban siswa 3"
+            }
+        ]
+    }
+]
